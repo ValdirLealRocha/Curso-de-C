@@ -1,0 +1,4 @@
+AULA 02 - https://youtu.be/IMRbGEEqzlI?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
+Curso de C++ #02 - Computador Simplificado
+Nesta segunda aula de C++, iremos aprender o conceito de Computador Simplificado, para que tenhamos um melhor entendimento de como funciona um programa de computador.
+Link Exercídio CS 01: https://mega.nz/file/U4lT2TjI#oXU7NqqkY86c58CxV7mQKCxWMP5Q3_uiYeL4OTZ9Rmc
