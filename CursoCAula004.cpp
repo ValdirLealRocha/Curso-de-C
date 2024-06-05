@@ -1,6 +1,6 @@
 /* ***************************************************************************
-AULA 04 - https://youtu.be/hur9N6pHEbU?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
-Curso de C++ #04 - Variáveis em C++
+AULA 004 - https://youtu.be/hur9N6pHEbU?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
+Curso de C++ #004 - Variáveis em C++
 Nesta aula iremos aprender sobre declaração de variáveis em c++
 */
 // Biblioteca dos comandos básicos de entrada e saída.
