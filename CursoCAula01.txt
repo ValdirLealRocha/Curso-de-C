@@ -1,6 +1,0 @@
-AULA 01 - https://youtu.be/nUQKr-ey86Y?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
-Curso de C++ -#01 - Introdução ao Curso
-Primeira aula do curso de C++, nesta aula iremos aprender os conceitos básicos necessários para iniciar nosso curso de C++
-Compiladores:
-Code::Blocks: http://www.codeblocks.org/downloads
-Dev-C++: http://www.bloodshed.net/download.html

@@ -42,8 +42,14 @@ Iremos aprender sobre a estrutura básica de um código em C++, iremos compilar 
 
 OBS.: No curso eu decidi separar as aulas em arquivos, para o meu aprendizado, não tome como base os meus estudos, siga as aulas e tenha a sua forma de trabalhar e de estudar. :)
 
-Aula 01 - Introdução ao Curso
+Aula 001 - Introdução ao Curso
 
-Aula 02 - Computador Simplificado
+Aula 002 - Computador Simplificado
 
-Aula 03 - Estrutura básica de um programa em C++
+Aula 003 - Estrutura básica de um programa em C++
+
+Aula 004 - Variáveis em C++
+
+
+
+Aula 189 - 
