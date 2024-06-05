@@ -50,6 +50,12 @@ Aula 003 - Estrutura básica de um programa em C++
 
 Aula 004 - Variáveis em C++
 
+Aula 005 - Declarações múltiplas de variáveis, Constantes
+
+Aula 006 - Variáveis Globais e Locais, Operadores matemáticos
+
+Aula 007 - Incremento e Decremento de Variáveis, Operadores pós e pré-fixados
+
 
 
 Aula 189 - 
