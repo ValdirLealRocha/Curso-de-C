@@ -1,26 +1,26 @@
 /* ***************************************************************************
 AULA 005 - https://youtu.be/o44fNZn4zNw?list=PLx4x_zx8csUjczg1qPHavU1vw1IkBcm40
-Curso de C++ #05 - Declarações múltiplas de variáveis, Constantes #Define
-Nesta aula de C++ iremos aprender sobre declarações múltiplas de variáveis e declarar constantes com a diretiva #define
+Curso de C++ #05 - Declaraï¿½ï¿½es mï¿½ltiplas de variï¿½veis, Constantes #Define
+Nesta aula de C++ iremos aprender sobre declaraï¿½ï¿½es mï¿½ltiplas de variï¿½veis e declarar constantes com a diretiva #define
 */
-// Biblioteca dos comandos básicos de entrada e saída.
-#include <iostream> // não usa o ;
+// Biblioteca dos comandos bï¿½sicos de entrada e saï¿½da.
+#include <iostream> // nï¿½o usa o ;
 
-// Definição do NameSpace - onde estão as funções que serão utilizadas
+// Definiï¿½ï¿½o do NameSpace - onde estï¿½o as funï¿½ï¿½es que serï¿½o utilizadas
 using namespace std;
 
-// declaração global..
-// valor que muda é uma variável
-// um valor que não pode ser mudado será uma constante
+// declaraï¿½ï¿½o global..
+// valor que muda ï¿½ uma variï¿½vel
+// um valor que nï¿½o pode ser mudado serï¿½ uma constante
 // pi - nome da constante
 // 3.1415 - valor da constante pi
-#define pi 3.1415 // não usa o ;
-#define canal cout << "Canal Fessor Bruno\n\n" // não usa o ; - neste caso foi usado lá na chamada da constante o ;
+#define pi 3.1415 // nï¿½o usa o ;
+#define canal cout << "Canal Fessor Bruno\n\n"; // nï¿½o usa o ; - neste caso foi usado lï¿½ na chamada da constante o ;
 
-// Padrão ANSI - função principal
+// Padrï¿½o ANSI - funï¿½ï¿½o principal
 int main(){
 	
-	// declarar variável
+	// declarar variï¿½vel
 	//int vida, tiros, life;
 
 	/* semelhantes a linh acima...
@@ -37,6 +37,6 @@ int main(){
 	
 	canal;
 
-	return 0; // padrão não retorna nada...
+	return 0; // padrï¿½o nï¿½o retorna nada...
 }
 
