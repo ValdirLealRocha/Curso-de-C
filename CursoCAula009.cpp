@@ -14,7 +14,6 @@ int main(){
 	
 	// declarar variável
 	int num = 10;
-	char opc = 's';
 
 	/*
 	// sintax do if

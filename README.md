@@ -60,6 +60,8 @@ Aula 008 - Invertendo valores de variáveis
 
 Aula 009 - Comando de decisão IF ELSE- Parte 1
 
+Aula 010 - Comando de decisão IF ELSE e comando Goto - Parte 2
+
 
 
 Aula 189 - 
