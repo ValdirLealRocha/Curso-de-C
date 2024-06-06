@@ -58,6 +58,8 @@ Aula 007 - Incremento e Decremento de Variáveis, Operadores pós e pré-fixados
 
 Aula 008 - Invertendo valores de variáveis
 
+Aula 009 - Comando de decisão IF ELSE- Parte 1
+
 
 
 Aula 189 - 
