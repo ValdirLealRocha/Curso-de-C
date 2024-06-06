@@ -56,6 +56,8 @@ Aula 006 - Variáveis Globais e Locais, Operadores matemáticos
 
 Aula 007 - Incremento e Decremento de Variáveis, Operadores pós e pré-fixados
 
+Aula 008 - Invertendo valores de variáveis
+
 
 
 Aula 189 - 
