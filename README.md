@@ -64,6 +64,22 @@ Aula 010 - Comando de decisão IF ELSE e comando Goto - Parte 2
 
 Aula 011 - Operadores AND, OR, NOT
 
+Aula 102 - Operador ternário
+
+Aula 013 - Comando Switch Case
+
+Aula 014 - Comando de laço While
+
+Aula 015 - Comando Break
+
+Aula 016 - Comando de loop Do While
+
+Aula 017 - Comando de loop FOR
+
+Aula 018 - Array / Vetor
+
+Aula 019 - Array bidimensional / Matriz
+
 
 
 Aula 189 - 
