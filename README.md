@@ -80,6 +80,28 @@ Aula 018 - Array / Vetor
 
 Aula 019 - Array bidimensional / Matriz
 
+Aula 020 - Jogo da Forca
+
+Aula 021 - Argumentos para a função main, argc e argv
+
+Aula 022 - Funções - Parte 1
+
+Aula 023 - Sobrecarga de funções
+
+Aula 024 - Omissão de argumentos e argumentos padrão
+
+Aula 025 - Funções recursivas (recursividade)
+
+Aula 026 - Resolução dos exercícios da aula 25
+
+Aula 027 - Enum
+
+Aula 028 - Pilha / Stack - Parte 1
+
+Aula 029 - Pilha / Stack - Parte 2
+
+Aula 030 - Fila / Queue
+
 
 
 Aula 189 - 
